@@ -1,0 +1,39 @@
+{
+  "_comment": "このファイルは一つ一つ真心を込めて作りました。",
+  "localized-strings": {
+    "next": "次",
+    "previous": "前",
+    "tagline": "テストサイト",
+    "doc1": "Latin-ish",
+    "Example Page": "Example ページ",
+    "doc2": "ドキュメント番号2",
+    "doc3": "ドキュメント番号3",
+    "doc6": "ドキュメント番号6",
+    "Addtional Page": "追加ページ",
+    "doc4": "他のドキュメント",
+    "doc5": "5番目のドキュメント",
+    "Docs": "ドックス",
+    "API": "API",
+    "Help": "おたすけ",
+    "Blog": "ブログｗ",
+    "Docusaurus": "文書恐竜",
+    "First Category": "最初のカテゴリ",
+    "Second Category": "2番めのカテゴリ"
+  },
+  "pages-strings": {
+    "Learn more using the [documentation on this site.](/test-site/docs/en/doc1.html)|no description given":
+      "ほげほげ [documentation on this site.](/test-site/docs/en/doc1.html)",
+    "Browse Docs|no description given": "Browse Docs",
+    "Ask questions about the documentation and project|no description given":
+      "Ask questions about the documentation and project",
+    "Join the community|no description given": "Join the community",
+    "Find out what's new with this project|no description given": "Find out what's new with this project",
+    "Stay up to date|no description given": "Stay up to date",
+    "Need help?|no description given": "おたすけしようか？?",
+    "This project is maintained by a dedicated group of people.|statement made to reader":
+      "This project is maintained by a dedicated group of people.",
+    "Help Translate|recruit community translators for your project": "Help Translate",
+    "Edit this Doc|recruitment message asking to edit the doc source": "Edit",
+    "Translate this Doc|recruitment message asking to translate the docs": "Translate"
+  }
+}
