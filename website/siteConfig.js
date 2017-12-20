@@ -25,6 +25,7 @@ const siteConfig = {
     { doc: "doc1", label: "Docs" },
     { doc: "doc4", label: "API" },
     { languages: true },
+    { page: "versions", label: "Version" },
     { page: "help", label: "Help" },
     { blog: true, label: "Blog" }
   ],
