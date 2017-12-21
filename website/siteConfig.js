@@ -10,7 +10,7 @@ const users = [
   {
     caption: "User1",
     image: "/tkdoc/img/docusaurus.svg",
-    infoLink: "https://www.facebook.com",
+    infoLink: "",
     pinned: true
   }
 ];
@@ -23,7 +23,7 @@ const siteConfig = {
   projectName: "tkdoc",
   headerLinks: [
     { doc: "doc1", label: "Docs" },
-    { doc: "doc4", label: "API" },
+    { doc: "doc3", label: "API" },
     { languages: true },
     { page: "versions", label: "Version" },
     { page: "help", label: "Help" },

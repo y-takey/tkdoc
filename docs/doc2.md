@@ -1,7 +1,6 @@
 ---
 id: doc2
-title: document number 2
+title: ふが
 ---
 
-This is a link to [another document.](/docs/en/doc3.md)  
-This is a link to an [external page.](http://www.example.com)
+２ページ目

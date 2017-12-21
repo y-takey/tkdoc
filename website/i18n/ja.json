@@ -23,17 +23,15 @@
   "pages-strings": {
     "Learn more using the [documentation on this site.](/test-site/docs/en/doc1.html)|no description given":
       "ほげほげ [documentation on this site.](/test-site/docs/en/doc1.html)",
-    "Browse Docs|no description given": "Browse Docs",
-    "Ask questions about the documentation and project|no description given":
-      "Ask questions about the documentation and project",
-    "Join the community|no description given": "Join the community",
-    "Find out what's new with this project|no description given": "Find out what's new with this project",
-    "Stay up to date|no description given": "Stay up to date",
+    "Browse Docs|no description given": "ドキュメントを見る",
+    "Ask questions about the documentation and project|no description given": "なんでも聞いてね",
+    "Join the community|no description given": "ジョインしよ",
+    "Find out what's new with this project|no description given": "新しいものを見つけよ",
+    "Stay up to date|no description given": "ステステ",
     "Need help?|no description given": "おたすけしようか？?",
-    "This project is maintained by a dedicated group of people.|statement made to reader":
-      "This project is maintained by a dedicated group of people.",
-    "Help Translate|recruit community translators for your project": "Help Translate",
-    "Edit this Doc|recruitment message asking to edit the doc source": "Edit",
-    "Translate this Doc|recruitment message asking to translate the docs": "Translate"
+    "This project is maintained by a dedicated group of people.|statement made to reader": "このプロジェクトは",
+    "Help Translate|recruit community translators for your project": "翻訳を助ける",
+    "Edit this Doc|recruitment message asking to edit the doc source": "編集",
+    "Translate this Doc|recruitment message asking to translate the docs": "翻訳"
   }
 }
