@@ -1,7 +1,8 @@
 ---
-id: doc1
+id: version-1.0.1-doc1
 title: ほげ
 sidebar_label: ほげ
+original_id: doc1
 ---
 
 ToCの自動生成もできる
@@ -19,4 +20,4 @@ const hoge = foo => console.log(foo)
 
 docs/assets/
 
-![画像](./assets/ss-1.png)
+![画像](/tkdoc/docs/assets/ss-1.png)

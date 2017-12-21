@@ -2,8 +2,5 @@
   "docs": {
     "First Category": ["doc1", "doc2"],
     "Second Category": ["doc3"]
-  },
-  "docs-other": {
-    "First Category": ["doc3"]
   }
 }

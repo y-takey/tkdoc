@@ -1,0 +1,16 @@
+{
+  "version-1.0.1-docs": {
+    "First Category": [
+      "version-1.0.1-doc1",
+      "version-1.0.1-doc2"
+    ],
+    "Second Category": [
+      "version-1.0.1-doc3"
+    ]
+  },
+  "version-1.0.1-docs-other": {
+    "First Category": [
+      "version-1.0.1-doc3"
+    ]
+  }
+}
